@@ -2,10 +2,10 @@
 Started on 28th April, 2025. By 6th August 2025, I aim to be a Coding Master
 
 ## Two Pointers
-| Problem Number | Problem Name | Category |
+| Problem Number | Problem Name | Link |
 | ------------- | ------------- |------------- |
-| 3 | Longest Substring Without Repeating Characters  | Pointers move in the same direction |
-| 344 | Reverse String | Fixed Pointer |
+| 3 | Longest Substring Without Repeating Characters  | [Longest Substring Without Repeating Characters](https://github.com/talesoverfables/100-Days-Of-Code/blob/main/Day1-LC-3-Longest-Substring-Without-Repeating-Characters.java) |
+| 344 | Reverse String | [Reverse String](https://github.com/talesoverfables/100-Days-Of-Code/blob/main/Day3-LC-344-Reverse-String.java) |
 
 | Day Skipped | Compensated Day |
 | ------------- | ------------- |
