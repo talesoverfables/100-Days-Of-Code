@@ -15,7 +15,8 @@ I use Java to solve Leetcode Questions.
 | Day Skipped | Compensated Day |
 | ------------- | ------------- |
 | Day 2  | |
-| Day : 5 - 14 |   |
+| Day : 5 - 14 | Day : 14  |
 Total Days Skipped = 9 Days
 
-Number of Problems = 9 * 2 = 18 Problems
+Number of Problems = 8 * 2 = 116 Problems
+
