@@ -18,5 +18,5 @@ I use Java to solve Leetcode Questions.
 | Day : 5 - 14 | Day : 14  |
 Total Days Skipped = 9 Days
 
-Number of Problems = 8 * 2 = 116 Problems
+Number of Problems = 7 * 2 = 14 Problems
 
