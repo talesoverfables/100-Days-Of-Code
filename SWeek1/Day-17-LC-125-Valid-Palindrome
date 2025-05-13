@@ -1,0 +1,19 @@
+class Solution {
+    public boolean isPalindrome(String s) {
+        s = s.toLowerCase();
+        String original = "";
+        int length1 = s.length();
+        for(int i=0; i<length1; i++){
+            char c = s.charAt(i);
+            int x = c;
+            if(x >= 97 && x<=122 || x >= 48 && x<=57){
+                original = original + c;
+            }
+        }
+        String reverse="";
+        for(int i=original.length()-1; i>=0; i--){
+            reverse = reverse+original.charAt(i);
+        }
+        return original.equals(reverse);
+    }
+}
